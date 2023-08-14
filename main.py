@@ -3,9 +3,6 @@ import tkinter
 
 BLACK = "#000000"
 GREY = "#CCCCCC"
-BROWN = "#3D0000"
-DARK_RED = "#950101"
-RED = "#FF0000"
 WHITE = "#EDEDED"
 
 all_pitches = ["C", "C#/D♭", "D", "D#/E♭", "E", "F", "F#/G♭", "G", "G#/A♭", "A", "A#/B♭", "B"]
